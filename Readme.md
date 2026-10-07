@@ -5,3 +5,5 @@ My index file did the basic greeting message ouput and then i added a function c
 
 ## Git practice
 I made this change as part of my Git and Github practical assignment
+
+## This is for the third assignment that requires me to pull this change
