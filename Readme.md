@@ -102,4 +102,8 @@ High scores: A high score cannot compensate for being underage, having an incomp
 
 Difference between && and ||: &git commit -a& means all connected conditions must be true; || means at least one connected condition must be true.
 
+<<<<<<< HEAD
 No bug was encountered during this assignment
+=======
+No bug was encountered during this assignment 
+>>>>>>> 7d0cadd9bec7489871d58799ffceb3cd8631c427
