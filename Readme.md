@@ -102,4 +102,4 @@ High scores: A high score cannot compensate for being underage, having an incomp
 
 Difference between && and ||: && means all connected conditions must be true; || means at least one connected condition must be true.
 
-No bug was encountered during this week
+No bug was encountered during this assignment 
