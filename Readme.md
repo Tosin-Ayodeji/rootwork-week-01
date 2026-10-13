@@ -26,7 +26,7 @@ If an applicant fails any of the normal requirements, the program should print "
 
 **Test Case 1: Applicant younger than 18**
 
-Input: age = 17, score = 90, hasLaptop = true, hasInternet = true, completedApplication = true
+Input: age = 16, score = 90, hasLaptop = true, hasInternet = true, completedApplication = true
 
 Expected result: Not eligible
 
@@ -100,6 +100,6 @@ Condition order: The priority condition must come first so that applicants scori
 
 High scores: A high score cannot compensate for being underage, having an incomplete application, or lacking a required resource.
 
-Difference between && and ||: && means all connected conditions must be true; || means at least one connected condition must be true.
+Difference between && and ||: &git commit -a& means all connected conditions must be true; || means at least one connected condition must be true.
 
-No bug was encountered during this week
+No bug was encountered during this assignment
