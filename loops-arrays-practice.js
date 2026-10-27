@@ -13,7 +13,7 @@ for (let i = 0; i < numbers.length; i++) {
     }
 }
 
-const scores = [12, 13, 35, 72, 34]
+const scores = [11, 13, 35, 72, 34]
 let totalscore = 0;
 console.log("total score =")
 for (let i = 0; i < scores.length; i++) {totalscore = totalscore + scores[i]};
