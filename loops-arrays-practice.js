@@ -39,3 +39,17 @@ console.log("after unshift:", figures)
 
 figures.shift();
 console.log("after shift:", figures)
+
+
+/*
+What I learned:
+
+1. Arrays are useful because they allow us to store
+   multiple values in one variable.
+
+2. Loops and arrays work well together because loops
+   allow us to process each item without writing
+   separate instructions for every item.
+ 3. One thing that confused me was trying to get the largest number without knowing if "largest" is a valid variable
+
+ */
