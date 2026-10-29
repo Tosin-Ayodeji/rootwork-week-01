@@ -24,4 +24,4 @@
 
 **Cause:** The condition used `tasks[i].completed === true` instead of `tasks[i].completed === false`.
 
-**Fix:** I restored the condition to `tasks[i].completed === false`, saved the file, and ran the program again to verify the output.
+**Fix:** I restored the condition to `tasks[i].completed === false`, saved the file, and ran the program again to verify the output it gave.
