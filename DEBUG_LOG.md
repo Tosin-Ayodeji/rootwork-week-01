@@ -16,8 +16,7 @@
 
 ## Problem 2: Incorrect condition for high-priority pending tasks
 
-**Problem:** I deliberately changed the condition for finding high-priority pending tasks so that it checked for completed tasks instead.
-
+**Problem:** THE high priority pending task was set to true instead of false which made the result gives out completed pending tasks instead of pending tasks
 **What I observed:** The program displayed high-priority completed tasks rather than high-priority pending tasks. If no high-priority completed tasks existed, it displayed the message indicating that no matching tasks were found.
 
 **What I checked:** I checked the `if` condition and compared the task's `completed` value with the intended requirement.
