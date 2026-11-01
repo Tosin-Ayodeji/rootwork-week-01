@@ -83,14 +83,14 @@ function findHighPriorityPendingTasks() {
   for (let i = 0; i < tasks.length; i++) {
     if (
       tasks[i].priority === "high" &&
-      tasks[i].completed === true
+      tasks[i].completed === false
     ) {
       console.log(tasks[i].title);
       foundTask = false;
     }
   }
 
-  if (foundTask === false) {
+  if (foundTask === true) {
     console.log("There are no high-priority pending tasks.");
   }
 }
